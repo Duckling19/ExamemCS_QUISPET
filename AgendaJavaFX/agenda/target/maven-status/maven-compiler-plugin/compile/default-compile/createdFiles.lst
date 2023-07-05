@@ -1,0 +1,8 @@
+com/mycompany/agenda/App.class
+com/mycompany/agenda/RootLayoutControlador.class
+com/mycompany/agenda/modelo/persona.class
+com/mycompany/agenda/PersonEditDialogControlador.class
+com/mycompany/agenda/utils/DateUti.class
+module-info.class
+com/mycompany/agenda/BirthdayStatisticsControlador.class
+com/mycompany/agenda/PersonOverviewControlador.class
